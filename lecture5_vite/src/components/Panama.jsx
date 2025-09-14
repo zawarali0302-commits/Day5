@@ -5,8 +5,8 @@ const Panama = () => {
     <div>
       <h1>Panama</h1>
       <div className='border w-72 h-36 flex'>
-        <div className=''></div>
-        <div></div>
+        <div className='bg-blue-700 w-1/2'></div>
+        <div className='bg-red-500 w-1/2 h-1/2'></div>
       </div>
       
     </div>
