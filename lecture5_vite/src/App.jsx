@@ -8,7 +8,8 @@ function App() {
 
   return (
     <>
-    <Circle/>
+    <LoginForm/>
+     {/* <Circle/> */}
     </>
   )
 }
